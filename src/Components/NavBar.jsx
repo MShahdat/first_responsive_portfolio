@@ -6,7 +6,7 @@ const NavBar = () => {
 
     return (
         <div className='text-white flex flex-wrap items-center justify-between px-10 pt-6 md:px-20'>
-            <span className='text-2xl font-bold tracking-wide'>Portfolio1</span>
+            <span className='text-2xl font-bold tracking-wide'>Portfolio</span>
             
             {/* Mobile Menu Button (always visible on mobile) */}
             <div className='md:hidden'>
